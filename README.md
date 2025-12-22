@@ -1,130 +1,184 @@
-# Babaei
+# Alireza Babazadeh Zarei
 
 <div align="center">
-  
-  **Brain-Computer Interface Researcher | Machine Learning Engineer | Innovation Award Winner**
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&weight=300&size=22&duration=4000&pause=1000&color=2E3440&center=true&vCenter=true&width=600&lines=Advancing+Human-Computer+Interaction;Building+Tomorrow's+Neural+Interfaces;Transforming+Neuroscience+Through+Technology" alt="Typing SVG" />
-  
+
+**AI Engineer | Machine Learning Specialist | Inventor in Biomedical and Computational Technologies**
+
+<img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&weight=300&size=22&duration=4000&pause=1000&color=2E3440&center=true&vCenter=true&width=600&lines=Engineering+Intelligent+Systems+for+Real-World+Impact;Advancing+AI+in+Neuroscience+and+Engineering;Innovating+at+the+Intersection+of+ML+and+Simulation" alt="Typing SVG" />
+
 </div>
 
 ---
 
 ## Professional Summary
 
-Dedicated researcher and developer specializing in **Brain-Computer Interfaces** and **Machine Learning** applications in neuroscience. Passionate about bridging the gap between human cognition and computational systems through innovative signal processing and AI methodologies.
-
-Currently focused on developing next-generation BCI systems while advancing expertise in deep learning architectures for biomedical signal analysis.
+As an AI engineer and inventor, I specialize in developing sophisticated machine learning solutions that integrate computer vision, reinforcement learning, natural language processing, and numerical simulations. My work emphasizes practical applications in biomedical signal processing, engineering tools, and AI-driven automation. With a foundation in brain-computer interfaces and EEG analysis, I bridge theoretical AI with real-world engineering challenges, creating tools that enhance decision-making and efficiency across domains.
 
 ---
 
 ## Research Interests
 
-**Primary Focus Areas:**
-- Brain-Computer Interface Development
-- EEG Signal Processing and Analysis
-- Neural Signal Decoding Algorithms
-- Machine Learning for Biomedical Applications
-- Computer Vision in Medical Imaging
-- Vital Signs Monitoring Systems
+**Core Focus Areas:**
+
+- Brain-Computer Interfaces and EEG Signal Processing
+- Machine Learning for Biomedical and Time-Series Data
+- Computer Vision and Image Classification
+- Reinforcement Learning and Algorithmic Optimization
+- Natural Language Processing, including ASR and Sentiment Analysis
+- Prompt Engineering and LLM Automation
+- Numerical Simulations in Engineering (e.g., Heat Transfer, Material Processing)
 
 **Technical Specializations:**
-- Deep Learning for Time-Series Analysis
-- Real-time Signal Processing
-- Feature Extraction from Neural Data
-- Pattern Recognition in Biological Signals
+
+- Deep Learning Architectures for Signal Decoding
+- Real-Time Data Analysis and Feature Extraction
+- Automated AI Tool Development for Interactive Systems
+- Multilingual AI Applications (e.g., Persian Language Processing)
 
 ---
 
 ## Academic & Professional Achievements
 
-### International Recognition
-- **🥇 Gold Medal** - International Invention Competition (2024)
-- **🥈 Silver Medal** - International Invention Competition (2021, 2023)
-- **🎓 Academic Excellence** - University Course Completion
+### Awards and Recognition
 
-### Technical Contributions
-- Active contributor to open-source machine learning projects
-- Research focus on EEG-based brain-computer interfaces
-- Development of novel signal processing algorithms
+- **Gold Medal** - International Invention Competition (2024)
+- **Silver Medals** - International Invention Competitions (2021, 2023)
+- **Innovation Award Winner** - For contributions to AI and neurotechnology
+
+### Contributions
+
+- Active open-source developer in AI and machine learning repositories
+- Research in EEG-based BCI systems and neural data analysis
+- Development of novel algorithms for signal processing and AI automation
 
 ---
 
 ## Technical Expertise
 
 ### Programming Languages
+
 ```
-Python          ████████████ Advanced
-Java            █████████    Proficient  
-C++             ████████     Proficient
-Arduino         ███████      Intermediate
-Fortran         ██████       Intermediate
+Python ████████████ Advanced
+C █████████ Proficient
+Java ████████ Proficient
+C++ ████████ Proficient
+Fortran ██████ Intermediate
 ```
 
-### Machine Learning & AI
-- **Deep Learning**: TensorFlow, PyTorch
-- **Computer Vision**: OpenCV, Image Processing
-- **Data Science**: NumPy, Pandas, Scikit-learn
-- **Signal Processing**: SciPy, MNE-Python (EEG analysis)
+### Machine Learning & AI Frameworks
+
+- **Deep Learning**: PyTorch, TensorFlow, Scikit-learn
+- **Computer Vision**: OpenCV, Vision Transformers
+- **NLP and LLMs**: OpenAI API, Prompt Engineering Tools
+- **Signal Processing**: SciPy, MNE-Python (for EEG), NumPy, Pandas
+- **Reinforcement Learning**: Q-Learning, Graph Algorithms (BFS)
 
 ### Development Tools
+
 - **Version Control**: Git, GitHub
 - **Containerization**: Docker
-- **Cloud Platforms**: AWS
-- **Development Environment**: Jupyter Notebook, PyCharm, VS Code
+- **Cloud Services**: AWS
+- **Environments**: Jupyter Notebook, VS Code, PyCharm
 
 ---
 
-## Current Projects & Interests
+## Highlighted Projects
 
-**Active Research:**
-- Developing advanced BCI systems for improved human-computer interaction
-- Implementing deep learning models for EEG signal classification
-- Exploring novel approaches to neural signal decoding
+My repositories showcase a diverse portfolio of AI and engineering innovations. Below is a curated selection:
 
-**Collaboration Opportunities:**
-- Machine Learning projects in healthcare and neuroscience
-- EEG data analysis and BCI development
-- Signal processing algorithm optimization
-- Open-source contributions to neurotechnology
+### EEG Signal Processing for BCI
+
+[Repository Link](https://github.com/Baaabaei/EEG)  
+Focused on EEG analysis using Jupyter Notebooks, including EEG-BCI implementations and transformer models for neural data. Demonstrates expertise in biomedical signal processing and machine learning applications in neuroscience.
+
+### Persian ASR with Sentiment Analysis
+
+[Repository Link](https://github.com/Baaabaei/persian-ASR-sentiment-analysis)  
+A Python-based project integrating automatic speech recognition (ASR) and sentiment analysis for Persian language data. Highlights multilingual NLP capabilities and audio processing techniques.
+
+### Hamrah Academy Prompt Engineering Workshop
+
+[Repository Link](https://github.com/Baaabaei/hamrah_academy_prompt_engineering_workshop)  
+Jupyter Notebook workshop on prompt engineering for large language models (LLMs), featuring math-related LLM applications. Emphasizes interactive AI design and optimization.
+
+### Automatic Prompt Engineer
+
+[Repository Link](https://github.com/Baaabaei/Automatic-Prompt-Engineer)  
+An interactive tool for automating prompt generation and evaluation using LLMs. Includes features for template customization, scoring, and task-specific optimization. Built with Python and OpenAI integration, ideal for efficient AI prompt design.
+
+### Chatbots Development
+
+[Repository Link](https://github.com/Baaabaei/Chatbots)  
+Exploration of chatbot systems, including RAG-based legal QA implementations in Jupyter Notebooks. Focuses on conversational AI, NLP, and knowledge retrieval.
+
+### Vision Transformer for Hoda Dataset
+
+[Repository Link](https://github.com/Baaabaei/Vision-Transformer-for-Hoda)  
+Implementation of Vision Transformers for classifying Persian handwritten digits. Showcases advanced computer vision techniques for specialized datasets.
+
+### Snakes and Ladders with Dual Algorithms
+
+[Repository Link](https://github.com/Baaabaei/snakes-n-Ladders-with-2-algo-s)  
+Python simulation using Q-Learning and BFS for gameplay optimization. Illustrates reinforcement learning and graph-based AI in interactive environments.
+
+### Laser Welding Calculator
+
+[Repository Link](https://github.com/Baaabaei/laser-welding-calculaotr)  
+A practical Python calculator for selecting laser parameters in material welding and cutting. Integrates engineering simulations with material science.
+
+### Heat Transfer Simulation Using Jacobi Method
+
+[Repository Link](https://github.com/Baaabaei/heat-transfer-using-jacobi-s)  
+C-based program solving heat transfer equations iteratively. Demonstrates numerical methods for physical simulations.
+
+### Customized AI Application (Ravansha1)
+
+[Repository Link](https://github.com/Baaabaei/ravansha1)  
+Forked and enhanced Python project for backend AI solutions, including prompt handling and interactive applications.
 
 ---
 
 ## GitHub Statistics
 
 <div align="center">
-  
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Baaabaei&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baaabaei&layout=compact&theme=default&hide_border=true"/>
-  
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Baaabaei&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baaabaei&layout=compact&theme=transparent&hide_border=true"/>
+
 </div>
 
 ---
 
 ## Professional Philosophy
 
-*"Committed to continuous learning and growth, approaching complex challenges with systematic thinking and innovative solutions. Dedicated to advancing the field of brain-computer interfaces while maintaining the highest standards of research integrity and collaborative excellence."*
+*"Driven by a commitment to innovation and excellence, I approach complex problems with rigorous analysis and creative solutions. My goal is to advance AI technologies that empower human capabilities, particularly in neuroscience and engineering, while fostering collaborative progress in the field."*
 
 ---
 
 ## Contact & Collaboration
 
-**Professional Networking:**
-- **Kaggle**: [@baaabaei](https://kaggle.com/baaabaei)
+**Professional Networks:**
+
+- **LinkedIn**: [inv-alizare](https://www.linkedin.com/in/inv-alizare)
+- **Kaggle**: [invalizare](https://www.kaggle.com/invalizare)
 - **Telegram**: [@baaabaei](https://t.me/baaabaei)
 
-**Open to:**
-- Research collaborations in neurotechnology and machine learning
-- Technical discussions on BCI development
-- Open-source project contributions
-- Knowledge sharing in EEG analysis and signal processing
+**Open to Opportunities:**
+
+- Collaborations in AI, machine learning, and neurotechnology projects
+- Discussions on BCI development and signal processing
+- Contributions to open-source initiatives in NLP and engineering simulations
+- Knowledge exchange in prompt engineering and LLM applications
 
 ---
 
 <div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=Baaabaei&color=2e3440&style=flat-square&label=Profile+Views)
-  
-  **Thank you for visiting my profile. Let's innovate together.**
-  
+
+![Profile Views](https://komarev.com/ghpvc/?username=Baaabaei&color=2e3440&style=flat-square&label=Profile+Views)
+
+**Thank you for exploring my profile. Together, we can shape the future of intelligent systems.**
+
 </div>
+
+---
+ 
