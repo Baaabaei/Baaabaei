@@ -4,7 +4,7 @@
 
 **AI Engineer | Machine Learning Specialist | Inventor in Biomedical and Computational Technologies**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&weight=300&size=22&duration=4000&pause=1000&color=2E3440&center=true&vCenter=true&width=600&lines=Engineering+Intelligent+Systems+for+Real-World+Impact;Advancing+AI+in+Neuroscience+and+Engineering;Innovating+at+the+Intersection+of+ML+and+Simulation" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&weight=300&size=22&duration=4000&pause=1000&color=2E3440&center=true&vCenter=true&width=600&lines= Engineering+Intelligent+Systems+for+Real-World+Impact;Advancing+AI+in+Neuroscience+and+Engineering;Innovating+at+the+Intersection+of+ML+and+Simulation" alt="Typing SVG" />
 
 </div>
 
