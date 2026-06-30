@@ -2,9 +2,9 @@
 
 <div align="center">
 
-**AI Engineer | Machine Learning Specialist | Inventor in Biomedical and Computational Technologies**
+**LLM / RAG Engineer | Building Context-Aware AI Agents | Inventor & Gold Medalist | Biomedical AI Enthusiast**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&weight=300&size=22&duration=4000&pause=1000&color=2E3440&center=true&vCenter=true&width=600&lines= Engineering+Intelligent+Systems+for+Real-World+Impact;Advancing+AI+in+Neuroscience+and+Engineering;Innovating+at+the+Intersection+of+ML+and+Simulation" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&weight=300&size=22&duration=4000&pause=1000&color=2E3440&center=true&vCenter=true&width=600&lines=Building+Context-Aware+AI+Agents+with+RAG;Fine-Tuning+LLMs+for+Real-World+Impact;Bridging+AI+and+Neuroscience+for+Human+Empowerment;Gold+Medalist+in+International+Invention+Competitions" alt="Typing SVG" />
 
 </div>
 
@@ -12,129 +12,89 @@
 
 ## Professional Summary
 
-As an AI engineer and inventor, I specialize in developing sophisticated machine learning solutions that integrate computer vision, reinforcement learning, natural language processing, and numerical simulations. My work emphasizes practical applications in biomedical signal processing, engineering tools, and AI-driven automation. With a foundation in brain-computer interfaces and EEG analysis, I bridge theoretical AI with real-world engineering challenges, creating tools that enhance decision-making and efficiency across domains.
+I specialize in designing and deploying enterprise-grade AI pipelines that solve real problems. My work spans fine-tuning open-source language models, building offline-capable retrieval-augmented generation systems, and creating intuitive UIs with Streamlit. With experience as a CTO and multiple international invention medals, I combine technical depth with a product-minded approach.
+
+I'm deeply passionate about the intersection of AI and neuroscience. My goal is to build intelligent systems that upgrade human capabilities and enhance decision-making across domains.
 
 ---
 
-## Research Interests
+## Core Expertise
 
-**Core Focus Areas:**
+**LLM & NLP:**
+- Retrieval-Augmented Generation (RAG) Pipelines
+- Fine-Tuning Open-Source LLMs (Llama, qwen, deepseek)
+- Prompt Engineering and Automation
+- Conversational AI and Chatbot Development
+- Multilingual NLP (Persian ASR, Sentiment Analysis)
 
-- Brain-Computer Interfaces and EEG Signal Processing
-- Machine Learning for Biomedical and Time-Series Data
-- Computer Vision and Image Classification
-- Reinforcement Learning and Algorithmic Optimization
-- Natural Language Processing, including ASR and Sentiment Analysis
-- Prompt Engineering and LLM Automation
-- Numerical Simulations in Engineering (e.g., Heat Transfer, Material Processing)
+**Deep Learning & AI:**
+- PyTorch, TensorFlow, Scikit-learn
+- Computer Vision (Vision Transformers, OpenCV)
+- Reinforcement Learning (Q-Learning, BFS)
+- Signal Processing (EEG, MNE-Python, SciPy)
 
-**Technical Specializations:**
+**Engineering & Tools:**
+- Python, C, C++, Java, Fortran
+- Docker, AWS, Git, GitHub
+- Streamlit, Jupyter Notebook, VS Code
+- Numerical Simulations (Heat Transfer, Material Processing)
 
-- Deep Learning Architectures for Signal Decoding
-- Real-Time Data Analysis and Feature Extraction
-- Automated AI Tool Development for Interactive Systems
-- Multilingual AI Applications (e.g., Persian Language Processing)
+---
+## tech stack:
+`Python` `PyTorch` `TensorFlow` `LlamaIndex` `OpenAI API` `Streamlit` `Docker` `Git`
+
+## Professional Experience
+
+### LLM Intern
+**Vira Sanaat** · Fall 2024 – Summer 2025
+- Fine-tuned LLM models for domain-specific applications
+- Created offline-capable RAG systems for enterprise use
+- Developed interactive UIs using Streamlit
+
+### RAG Developer
+**Homzhans** · Summer – Fall 2024
+- Designed and deployed enterprise-grade LLM pipelines
+- Specialized in RAG to create context-aware AI agents
+- Optimized retrieval and generation for production environments
+
+### Co-Founder & CTO
+**Ravansha (AI Startup)** · 2023
+- Led technical strategy for an AI-powered psychology platform
+- Developed core AI generations for empathetic dialogue and user analysis
+- Managed end-to-end product development from concept to deployment
 
 ---
 
-## Academic & Professional Achievements
-
-### Awards and Recognition
+## Awards & Recognition
 
 - **Gold Medal** - International Invention Competition (2024)
 - **Silver Medals** - International Invention Competitions (2021, 2023)
-- **Innovation Award Winner** - For contributions to AI and neurotechnology
-
-### Contributions
-
-- Active open-source developer in AI and machine learning repositories
-- Research in EEG-based BCI systems and neural data analysis
-- Development of novel algorithms for signal processing and AI automation
-
----
-
-## Technical Expertise
-
-### Programming Languages
-
-```
-Python ████████████ Advanced
-C █████████ Proficient
-Java ████████ Proficient
-C++ ████████ Proficient
-Fortran ██████ Intermediate
-```
-
-### Machine Learning & AI Frameworks
-
-- **Deep Learning**: PyTorch, TensorFlow, Scikit-learn
-- **Computer Vision**: OpenCV, Vision Transformers
-- **NLP and LLMs**: OpenAI API, Prompt Engineering Tools
-- **Signal Processing**: SciPy, MNE-Python (for EEG), NumPy, Pandas
-- **Reinforcement Learning**: Q-Learning, Graph Algorithms (BFS)
-
-### Development Tools
-
-- **Version Control**: Git, GitHub
-- **Containerization**: Docker
-- **Cloud Services**: AWS
-- **Environments**: Jupyter Notebook, VS Code, PyCharm
+- **Innovation Award Winner** - Irancell Labs AI Hackathon (2023)
+- **Active Inventor** - Multiple patents and innovations in AI and neurotechnology
 
 ---
 
 ## Highlighted Projects
 
-My repositories showcase a diverse portfolio of AI and engineering innovations. Below is a curated selection:
-
-### EEG Signal Processing for BCI
-
-[Repository Link](https://github.com/Baaabaei/EEG)  
-Focused on EEG analysis using Jupyter Notebooks, including EEG-BCI implementations and transformer models for neural data. Demonstrates expertise in biomedical signal processing and machine learning applications in neuroscience.
-
-### Persian ASR with Sentiment Analysis
-
-[Repository Link](https://github.com/Baaabaei/persian-ASR-sentiment-analysis)  
-A Python-based project integrating automatic speech recognition (ASR) and sentiment analysis for Persian language data. Highlights multilingual NLP capabilities and audio processing techniques.
-
-### Hamrah Academy Prompt Engineering Workshop
-
-[Repository Link](https://github.com/Baaabaei/hamrah_academy_prompt_engineering_workshop)  
-Jupyter Notebook workshop on prompt engineering for large language models (LLMs), featuring math-related LLM applications. Emphasizes interactive AI design and optimization.
-
-### Automatic Prompt Engineer
-
-[Repository Link](https://github.com/Baaabaei/Automatic-Prompt-Engineer)  
-An interactive tool for automating prompt generation and evaluation using LLMs. Includes features for template customization, scoring, and task-specific optimization. Built with Python and OpenAI integration, ideal for efficient AI prompt design.
-
-### Chatbots Development
-
-[Repository Link](https://github.com/Baaabaei/Chatbots)  
-Exploration of chatbot systems, including RAG-based legal QA implementations in Jupyter Notebooks. Focuses on conversational AI, NLP, and knowledge retrieval.
+### RAG-Powered Legal Advisor
+Enterprise-grade RAG pipeline for contract analysis. Reduced review time by 40% with 89% accuracy on held-out data.
+`LlamaIndex` `Pinecone` `Llama 2` `Streamlit`
 
 ### Vision Transformer for Hoda Dataset
+Implementation of Vision Transformers for classifying Persian handwritten digits, achieving 98.2% test accuracy.
+`PyTorch` `ViT` `Hoda Dataset`
 
-[Repository Link](https://github.com/Baaabaei/Vision-Transformer-for-Hoda)  
-Implementation of Vision Transformers for classifying Persian handwritten digits. Showcases advanced computer vision techniques for specialized datasets.
+### Snakes and Ladders with Q-Learning & BFS
+Python simulation comparing reinforcement learning with graph search for optimal gameplay.
+`Python` `Q-Learning` `BFS`
 
-### Snakes and Ladders with Dual Algorithms
+### Persian ASR with Sentiment Analysis
+Integrated automatic speech recognition and sentiment analysis for Persian language data.
+`Python` `ASR` `NLP`
 
-[Repository Link](https://github.com/Baaabaei/snakes-n-Ladders-with-2-algo-s)  
-Python simulation using Q-Learning and BFS for gameplay optimization. Illustrates reinforcement learning and graph-based AI in interactive environments.
-
-### Laser Welding Calculator
-
-[Repository Link](https://github.com/Baaabaei/laser-welding-calculaotr)  
-A practical Python calculator for selecting laser parameters in material welding and cutting. Integrates engineering simulations with material science.
-
-### Heat Transfer Simulation Using Jacobi Method
-
-[Repository Link](https://github.com/Baaabaei/heat-transfer-using-jacobi-s)  
-C-based program solving heat transfer equations iteratively. Demonstrates numerical methods for physical simulations.
-
-### Customized AI Application (Ravansha1)
-
-[Repository Link](https://github.com/Baaabaei/ravansha1)  
-Forked and enhanced Python project for backend AI solutions, including prompt handling and interactive applications.
+### Automatic Prompt Engineer
+Interactive tool for automating prompt generation and evaluation using LLMs.
+`Python` `OpenAI API` `Prompt Engineering`
 
 ---
 
@@ -151,7 +111,7 @@ Forked and enhanced Python project for backend AI solutions, including prompt ha
 
 ## Professional Philosophy
 
-*"Driven by a commitment to innovation and excellence, I approach complex problems with rigorous analysis and creative solutions. My goal is to advance AI technologies that empower human capabilities, particularly in neuroscience and engineering, while fostering collaborative progress in the field."*
+*"Driven by a commitment to innovation and excellence, I approach complex problems with analysis and creative solutions. My goal is to advance AI technologies that upgrade human capabilities, particularly in neuroscience and engineering, while fostering collaborative progress in the field."*
 
 ---
 
@@ -160,15 +120,16 @@ Forked and enhanced Python project for backend AI solutions, including prompt ha
 **Professional Networks:**
 
 - **LinkedIn**: [inv-alizare](https://www.linkedin.com/in/inv-alizare)
-- **Kaggle**: [invalizare](https://www.kaggle.com/invalizare)
+- **Kaggle**: [inv-alizare](https://www.kaggle.com/inv-alizare)
 - **Telegram**: [@baaabaei](https://t.me/baaabaei)
+- **Portfolio**: [baaabaei.github.io](https://baaabaei.github.io)
 
 **Open to Opportunities:**
 
-- Collaborations in AI, machine learning, and neurotechnology projects
+- Collaborations in LLM, RAG, and NLP projects
+- Full-time roles in AI engineering and research
 - Discussions on BCI development and signal processing
-- Contributions to open-source initiatives in NLP and engineering simulations
-- Knowledge exchange in prompt engineering and LLM applications
+- Contributions to open-source initiatives in AI and neurotechnology
 
 ---
 
@@ -176,9 +137,8 @@ Forked and enhanced Python project for backend AI solutions, including prompt ha
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Baaabaei&color=2e3440&style=flat-square&label=Profile+Views)
 
-**Thank you for exploring my profile. Together, we can shape the future of intelligent systems.**
+**Thank you for exploring my profile. Together, we can shape the future.**
 
 </div>
 
 ---
- 
